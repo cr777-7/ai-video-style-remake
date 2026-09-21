@@ -39,7 +39,7 @@
 ## 配套教程
 
 本 skill 浓缩自一篇完整实操教程（含成片演示、界面截图、逐段提示词实例）：
-https://rgg4vktjct.feishu.cn/wiki/DkvHww5akia7uQkyafYcUrxon3b
+https://mp.weixin.qq.com/s/ykvCrGitPsPUo8xW_-hJmA
 
 建议先看教程理解「为什么」，再让 skill 带着你做「怎么做」。
 
